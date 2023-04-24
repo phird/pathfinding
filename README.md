@@ -1,4 +1,5 @@
 # pathfinding
+latest version using PriorityQueue to handle with large matrices
 
 ## usage 
 Go to project directory - > pathfinding / src /
