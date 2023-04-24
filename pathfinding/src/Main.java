@@ -121,7 +121,7 @@ public class Main {
             // Return shortest path
             return dist[n - 1][m - 1];
         }catch (Exception e){
-            System.out.println("Error with" + e);
+            System.out.println("Error with" + e.getMessage());
         }
     return -1;
     }
