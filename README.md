@@ -1,10 +1,12 @@
 # pathfinding
 
 ## usage 
-Go to project directory - > pathfinding / src
-run this command 
+Go to project directory - > pathfinding / src /
+
+then run command below
 
 ```bash
+
 javac Main.java
 
 # then run 
