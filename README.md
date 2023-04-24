@@ -1,4 +1,5 @@
 # pathfinding
+
 latest version using PriorityQueue to handle with large matrices
 
 ## usage 
@@ -14,5 +15,5 @@ javac Main.java
 java Main filename.txt
 
 # for multiple file 
-java Main filename.txt filename2.txt filename3.txt
+java Main in-1.txt in-2.txt in-3.txt
 ```
